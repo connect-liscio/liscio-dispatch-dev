@@ -1,2 +1,2 @@
 # liscio-dispatch-uat
-Contains UAT builds of liscio dispatch
+Contains dev builds of liscio dispatch
